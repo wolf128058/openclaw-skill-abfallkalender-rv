@@ -1,5 +1,5 @@
 ---
-name: abfallkalender-rv
+name: Abfallkalender RV
 description: Lade den Abfallkalender fuer den Landkreis Ravensburg ueber die offizielle Athos-Webseite herunter. Verwende diesen Skill, wenn du fuer Orte wie Ravensburg, Weingarten, Wangen im Allgaeu usw. anhand von Ort, Strasse und Hausnummer einen PDF- oder ICS-Abfallkalender holen sollst.
 ---
 
